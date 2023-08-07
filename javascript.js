@@ -7,7 +7,7 @@ var MarkFloor = Math.floor(Mark)
     if(MarkFloor >= 91 && MarkFloor <= 100 ){
         alert("Your grade is A+ . congratulations you Pass ")
     }
-    else if(MarkFloor >= 51 && MarkFloor <= 60 ){
+    else if(MarkFloor >= 50 && MarkFloor <= 60 ){
         alert("Your grade is D . congratulations you Pass")
     }
     else if(MarkFloor >= 61 && MarkFloor <= 70 ){
